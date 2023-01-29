@@ -2,9 +2,9 @@
 
 ___
 
-In this space, I will be posting up my journey to create machine learning applications using public health data. :sunny:
+In this space, I will be posting up my journey to create machine learning applications using public health data. 
 
-#### Without further ado, here are my list of to dos:
+#### Without further ado, here is a list of projects I've been working on:
 - :speech_balloon: Learn how to create Python Dash web applications (webapps)
 - :grey_question: More to come . . .
 ___
