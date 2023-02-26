@@ -41,9 +41,6 @@ If you're interested in AI in Health as well, please enjoy my musings and please
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
