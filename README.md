@@ -41,7 +41,9 @@ If you're interested in AI in Health as well, please enjoy my musings and please
 
 </td><td valign="top" width="50%">
 
-
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->
 
 </td></tr></table>  
 
